@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="884a068b-d200-494c-a1c6-834d8283ec9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson02/src/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson02/src/Array3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson01/Lesson01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson01/Lesson01.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dx5hQazUq8G6M6kkUvwtapZVA1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.guess">
+    <configuration name="Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array1" />
+      <module name="lesson02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="guess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guess" />
+      <module name="lesson03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.guess" />
+        <item itemvalue="Application.Array1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="884a068b-d200-494c-a1c6-834d8283ec9f" name="Default Changelist" comment="" />
+      <created>1593354021782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593354021782</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1003" y="326" key="#Inspections" timestamp="1593456625897">
+      <screen x="-1280" y="134" width="1280" height="1024" />
+    </state>
+    <state x="-1003" y="326" key="#Inspections/0.0.1920.1080/-1280.134.1280.1024@-1280.134.1280.1024" timestamp="1593456625897" />
+    <state x="-1037" y="306" width="816" height="729" key="#Intentions" timestamp="1593458696802">
+      <screen x="-1280" y="134" width="1280" height="1024" />
+    </state>
+    <state x="-1037" y="306" width="816" height="729" key="#Intentions/0.0.1920.1080/-1280.134.1280.1024@-1280.134.1280.1024" timestamp="1593458696802" />
+    <state x="-1160" y="220" key="#Project_Structure" timestamp="1593354098506">
+      <screen x="-1280" y="134" width="1280" height="1024" />
+    </state>
+    <state x="-1160" y="220" key="#Project_Structure/0.0.1920.1080/-1280.134.1280.1024@-1280.134.1280.1024" timestamp="1593354098506" />
+    <state x="-1186" y="301" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593357658163">
+      <screen x="-1280" y="134" width="1280" height="1024" />
+    </state>
+    <state x="-1186" y="301" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1280.134.1280.1024@-1280.134.1280.1024" timestamp="1593357658163" />
+    <state width="1220" height="337" key="GridCell.Tab.0.bottom" timestamp="1593461682644">
+      <screen x="-1280" y="134" width="1280" height="1024" />
+    </state>
+    <state width="1220" height="337" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.134.1280.1024@-1280.134.1280.1024" timestamp="1593461682644" />
+    <state width="1220" height="337" key="GridCell.Tab.0.center" timestamp="1593461682644">
+      <screen x="-1280" y="134" width="1280" height="1024" />
+    </state>
+    <state width="1220" height="337" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.134.1280.1024@-1280.134.1280.1024" timestamp="1593461682644" />
+    <state width="1220" height="337" key="GridCell.Tab.0.left" timestamp="1593461682644">
+      <screen x="-1280" y="134" width="1280" height="1024" />
+    </state>
+    <state width="1220" height="337" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.134.1280.1024@-1280.134.1280.1024" timestamp="1593461682644" />
+    <state width="1220" height="337" key="GridCell.Tab.0.right" timestamp="1593461682644">
+      <screen x="-1280" y="134" width="1280" height="1024" />
+    </state>
+    <state width="1220" height="337" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.134.1280.1024@-1280.134.1280.1024" timestamp="1593461682644" />
+    <state width="1220" height="337" key="GridCell.Tab.1.bottom" timestamp="1593461682644">
+      <screen x="-1280" y="134" width="1280" height="1024" />
+    </state>
+    <state width="1220" height="337" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1280.134.1280.1024@-1280.134.1280.1024" timestamp="1593461682644" />
+    <state width="1220" height="337" key="GridCell.Tab.1.center" timestamp="1593461682644">
+      <screen x="-1280" y="134" width="1280" height="1024" />
+    </state>
+    <state width="1220" height="337" key="GridCell.Tab.1.center/0.0.1920.1080/-1280.134.1280.1024@-1280.134.1280.1024" timestamp="1593461682644" />
+    <state width="1220" height="337" key="GridCell.Tab.1.left" timestamp="1593461682644">
+      <screen x="-1280" y="134" width="1280" height="1024" />
+    </state>
+    <state width="1220" height="337" key="GridCell.Tab.1.left/0.0.1920.1080/-1280.134.1280.1024@-1280.134.1280.1024" timestamp="1593461682644" />
+    <state width="1220" height="337" key="GridCell.Tab.1.right" timestamp="1593461682644">
+      <screen x="-1280" y="134" width="1280" height="1024" />
+    </state>
+    <state width="1220" height="337" key="GridCell.Tab.1.right/0.0.1920.1080/-1280.134.1280.1024@-1280.134.1280.1024" timestamp="1593461682644" />
+  </component>
+</project>
