@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="884a068b-d200-494c-a1c6-834d8283ec9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson02.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson02/lesson02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson02/src/Array1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson02/src/Array2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson02/src/Array3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson02/src/Array4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson02/src/Array5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson02/src/Array6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson02/src/Array7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson03.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson03/lesson03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson03/src/guess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson03/src/spiral.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson01/Lesson01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson01/Lesson01.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
