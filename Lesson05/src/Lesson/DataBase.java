@@ -1,22 +1,29 @@
-
-//package Lesson05;
-
+package Lesson;
 
 public class DataBase {
     public static void main(String[] args) {
         int ageFor = 55;
+        int numEmployee = 3;
 
-        Worker[] arrayWorker = new Worker[3];
+        Employee[] arrayEmployee = new Employee[numEmployee];
 
-        arrayWorker[0] = new Worker("Путин", "Владимир", "Владимирович", "Президент","kremlin.ru", "8 800 200 23 16", "618 713 руб", "67");
-        arrayWorker[1] = new Worker("Медведев", "Дмитрий", "Анатольевич", "Заместитель Председателя Совета безопасности Российской Федерации","www.scrf.gov.ru", "-", "618 713 руб", "54");
-        arrayWorker[2] = new Worker("Мишустин", "Михаил", "Владимирович", "Председатель Правительства Российской Федерации","government.ru", "8 800 200 23 16", "618 000 руб", "54");
+        arrayEmployee[0] = new Employee("Путин", "Владимир", "Владимирович", "Президент","kremlin.ru", "8 800 200 23 16", "720 700 руб", 67);
+        arrayEmployee[1] = new Employee("Медведев", "Дмитрий", "Анатольевич", "Заместитель Председателя Совета безопасности Российской Федерации","www.scrf.gov.ru", "-", "618 713 руб", 54);
+        arrayEmployee[2] = new Employee("Мишустин", "Михаил", "Владимирович", "Председатель Правительства Российской Федерации","government.ru", "8 800 200-84-42", "618 000 руб", 54);
 
-        for (Worker worker : arrayWorker) {
-            if worker.a
+        System.out.println("Работники возрастом старше " + ageFor + " лет:");
+        for (Employee employee : arrayEmployee) {
+            if(employee.getAge() > ageFor)
+                System.out.println(employee.toString());
+         }
 
+        System.out.println();
+
+        System.out.println("Работники возрастом младше " + ageFor + " лет:");
+        for (Employee employee : arrayEmployee) {
+            if(employee.getAge() < ageFor)
+                System.out.println(employee.toString());
         }
-
 
     }
 }
